@@ -6,6 +6,12 @@ class HelperClass {
     }
 
     private void verify(String verifyString){
-        print(verifyString)
+        def a = true;
+        def parmas = a;
+
+        if(a){
+            return;
+        }
+        print()
     }
 }
