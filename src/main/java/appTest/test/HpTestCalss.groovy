@@ -1,6 +1,6 @@
 package appTest.test
 
-class HelperTestCalss {
+class HpTestCalss {
     void functionTest(){
         verify("this is verify function")
     }
