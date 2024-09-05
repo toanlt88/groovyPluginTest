@@ -1,4 +1,4 @@
-package appTest.test
+package appTest.common
 
 class TcFhweofho {
     static void main(String[] args) {

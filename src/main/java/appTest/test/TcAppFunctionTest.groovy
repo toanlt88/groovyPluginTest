@@ -1,4 +1,4 @@
-package appTest
+package appTest.test
 
 class TcAppFunctionTest {
     static void main(String[] args) {

@@ -1,6 +1,6 @@
 package appTest.test
 
-class HelperClass {
+class HpHelperClass {
     void functionTest(){
         verify("this is verify function")
     }
@@ -13,9 +13,9 @@ class HelperClass {
             List<Integer> b = [1,2,3];
 
             switch( 0 ) {
-                case 1: break;
-                case 2: break;
-                case 2: break;          // violation
+                case 1: break
+                case 2: break
+                case 2: break          // violation
             }
         }catch(Exception e){
 
