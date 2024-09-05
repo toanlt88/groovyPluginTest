@@ -1,6 +1,6 @@
 package appTest.test
 
-class Hpgergregre {
+class Helpergergregre {
     void functionTest(){
         verify("this is verify function")
     }
