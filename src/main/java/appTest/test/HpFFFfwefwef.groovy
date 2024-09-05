@@ -8,4 +8,8 @@ class HpFFFfwefwef {
     private void verify(String verifyString){
         print(verifyString)
     }
+
+    void test(){
+
+    }
 }
