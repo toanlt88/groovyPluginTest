@@ -1,11 +1,11 @@
 package appTest.test
 
-class TcAppFunctionTest {
+class TestClassName {
     static void main(String[] args) {
         print("This is the app function class")
     }
 
-    void test(){
-        print("This is the test function")
+    void test(String verifyString){
+        print(verifyString)
     }
 }

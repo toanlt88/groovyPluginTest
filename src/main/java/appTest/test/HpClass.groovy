@@ -1,8 +1,8 @@
 package appTest.test
 
-class HpTestCalss {
-    void functionTest(){
-        verify("this is verify function")
+class HpClass {
+    public void functionTest(){
+        verify("this is verify function");
     }
 
     private void verify(String verifyString){
